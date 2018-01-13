@@ -20,7 +20,7 @@
 
 /*_____________________________Definitions______________________________*/
 #define MAX_NUM_WORDS	500
-#define WORD_LENGTH		50
+#define WORD_LENGTH	50
 
 /*	Functions	*/
 int getAndFilterWord(char * w);
